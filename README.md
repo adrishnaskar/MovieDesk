@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # MovieDesk
-an Movie App made using Vue JS
-=======
-# movie-app
+
+
 
 ## Project setup
 ```
@@ -19,6 +18,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> ba950fc (initial commit)
+
