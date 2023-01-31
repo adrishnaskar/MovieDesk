@@ -9,8 +9,9 @@
 
 
 ## Demo
+<a href="https://sensational-queijadas-967222.netlify.app/" target="_blank">View Demo</a>
 
-https://sensational-queijadas-967222.netlify.app/
+
 
 ## Project setup
 ```
