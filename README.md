@@ -1,7 +1,11 @@
 
 # MovieDesk
 
+![Screenshot 2023-01-31 095954](https://user-images.githubusercontent.com/37959710/215674426-b27ac693-af49-48a0-9cd6-c3583b5c7d7f.png)
 
+--------------------------
+
+![Screenshot 2023-01-31 100149](https://user-images.githubusercontent.com/37959710/215674452-1b8da99a-e61e-4bab-a6fb-5194100b35c6.png)
 
 ## Project setup
 ```
